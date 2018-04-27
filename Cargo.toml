@@ -1,0 +1,8 @@
+[package]
+name = "rosc-sdl2"
+version = "0.0.1"
+authors = ["robmckinnon <rob@movingflow>"]
+
+[dependencies]
+sdl2 = "0.31"
+rosc = "0.1.5"
