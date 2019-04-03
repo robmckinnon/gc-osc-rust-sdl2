@@ -1,0 +1,2 @@
+*.rs linguist-language=Rust
+*.sh linguist-language=Rust
